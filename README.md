@@ -1,0 +1,1 @@
+# Analysis-of-precipitation-and-wind-speed-in-wayanad
